@@ -1,0 +1,17 @@
+.build/
+work/
+WPX-01-macOS_extracted/
+.DS_Store
+*.dmg
+*.bin
+*.pyc
+outputs/wpx_temperature_sample_*.csv
+outputs/wpx_temperature_sample_*.json
+
+# SwiftPM and Xcode build products
+DerivedData/
+*.xcuserstate
+
+# Local editor and OS metadata
+.idea/
+.vscode/
